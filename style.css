@@ -22,10 +22,13 @@ h1, h2, h3 {
 }
 
 table.specials {
-	width: 50%;
+	width: 80%;
 }
 
 table.specials td {
+	width: 25%;
+}
+table.specials td.imagecolumn {
 	width: 50%;
 }
 
